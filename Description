@@ -1,0 +1,7 @@
+Package: SanchezConvert
+Type: Package
+Title: Unit Conversion
+Version: 0.1.0
+Author: Joseph Michael Sanchez
+Maintainer:  <josephsanch@usf.edu>
+Description: A package for converting measuring units like temperature and distance.
